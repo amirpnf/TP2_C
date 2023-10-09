@@ -1,9 +1,7 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <math.h>
 
 int main(int argc, char* argv[]) {
-    int res = 0;
     int x, y, z;
     for(int i = 0; i <= 500; i++) {
         x = i / 100;
